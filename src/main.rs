@@ -1,7 +1,7 @@
 /*
 By: Tristan St-Gelais
 Date: 2026-02-19
-Program Details: <Program Description Here>
+Program Details: This program will display 3 different nursery rhymes and images when the user clicks different buttons.
 */
 
 mod modules;
